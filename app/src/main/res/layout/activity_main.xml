@@ -87,6 +87,7 @@
                     android:layout_height="100dp"
                     android:layout_weight="1"
                     android:gravity="top"
+                    android:text="LogCat......"
                     android:hint="输入要发送的文字"
                     android:maxLines="100"
                     android:padding="5dp" />
