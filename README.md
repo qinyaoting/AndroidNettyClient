@@ -1,0 +1,2 @@
+# AndroidNettyClient
+only for test
